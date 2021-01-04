@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>尝试github action自动部署</title>
+      <link href="/posts/1.html"/>
+      <url>/posts/1.html</url>
+      
+        <content type="html"><![CDATA[<p>看着有大佬已经在使用github action的workers自动部署hexo了，豆子今天也尝试着自己部署，度娘和GG了一遍，参考了无数教程，总算是大概有个眉目了。先上传一篇日志测试一下效果吧。看豆子的部署成不成功。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 豆子物语 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 自动部署 </tag>
+            
+            <tag> github action </tag>
+            
+            <tag> workers </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>

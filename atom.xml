@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>逍遥客</title>
+  
+  <subtitle>我自乘风去，四海任我游，醒观天下事，醉卧几春秋！</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://imdoublog.github.io/"/>
+  <updated>2021-01-04T10:53:21.047Z</updated>
+  <id>https://imdoublog.github.io/</id>
+  
+  <author>
+    <name>逍遥客</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>尝试github action自动部署</title>
+    <link href="https://imdoublog.github.io/posts/1.html"/>
+    <id>https://imdoublog.github.io/posts/1.html</id>
+    <published>2021-01-03T23:01:09.000Z</published>
+    <updated>2021-01-04T10:53:21.047Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;看着有大佬已经在使用github
+        
+      
+    
+    </summary>
+    
+      <category term="豆子物语" scheme="https://imdoublog.github.io/categories/%E8%B1%86%E5%AD%90%E7%89%A9%E8%AF%AD/"/>
+    
+    
+      <category term="自动部署" scheme="https://imdoublog.github.io/tags/%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2/"/>
+    
+      <category term="github action" scheme="https://imdoublog.github.io/tags/github-action/"/>
+    
+      <category term="workers" scheme="https://imdoublog.github.io/tags/workers/"/>
+    
+  </entry>
+  
+</feed>
